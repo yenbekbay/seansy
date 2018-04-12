@@ -6,7 +6,7 @@ Seansy is an iOS app that displays showtimes for movies in Kazakhstan cinemas.
 
 ## Stack
 
-The older feature-complete variant of Seansy iOS app is written in Objective-C using the MVVM architecture. It's built with [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) and [AFNetworking](https://github.com/AFNetworking/AFNetworking).
+The older feature-complete variant of Seansy iOS app is written in Objective-C using the MVC architecture. It's built with [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) and [AFNetworking](https://github.com/AFNetworking/AFNetworking).
 
 The newer feature-incomplete variant of Seansy iOS app is written in Swift 2 using the VIPER architecture. It's built with [RxSwift](https://github.com/ReactiveX/RxSwift), [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya), [Dip](https://github.com/AliSoftware/Dip), [Stevia](https://github.com/freshOS/Stevia), [Unbox](https://github.com/JohnSundell/Unbox), and [Compass](https://github.com/hyperoslo/Compass).
 
